@@ -1,3 +1,4 @@
+
 # Penguin Species Classifier
 
 My first machine learning project, built to learn how to prepare data, train a classification model, and evaluate its predictions.
@@ -36,3 +37,5 @@ Python, pandas, seaborn, and scikit-learn.
 ## Status
 
 Work in progress.
+
+
